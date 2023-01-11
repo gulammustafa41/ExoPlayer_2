@@ -1,5 +1,11 @@
 # ExoPlayer_2
 
+
+
+https://user-images.githubusercontent.com/113841536/211888217-547509b2-a119-489a-833c-15881b0b0804.mp4
+
+
+
 #Screenshots of the App
 
                                 #1
@@ -11,3 +17,5 @@
 
 
 ![2023-01-05 23_56_08-WhatsApp](https://user-images.githubusercontent.com/113841536/210853853-c1754ba1-c31f-40c7-9aee-d710a3920b77.png)
+
+
